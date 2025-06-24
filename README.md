@@ -20,7 +20,7 @@ cd heart-disease-predictor
 
 2. Install dependencies
 ```
-pip install pandas numpy matplotlib scikit-learn geopy requests
+pip install -r requirements.txt
 ```
 
 3. Place your heart.csv dataset in the project folder
